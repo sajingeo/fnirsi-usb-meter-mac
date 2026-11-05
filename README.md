@@ -14,7 +14,7 @@ and falls back to any HID device identifying as FNIRSI/FNB (e.g. FNB-C2).
 
 ## GUI
 
-![GUI screenshot](docs/gui-screenshot.png)
+![GUI with a live FNB58](docs/screenshot-ui.png)
 
 ```sh
 .venv/bin/python usbmeter_gui.py          # auto-connects, reconnects on unplug
